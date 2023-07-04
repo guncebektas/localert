@@ -15,9 +15,13 @@
     "warning"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/guncebektas/localert/issues"
   },
-  "homepage": "https://github.com/guncebektas/localert#readme"
+  "homepage": "https://github.com/guncebektas/localert#readme",
+  "devDependencies": {
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  }
 }
